@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot.png)
+![](./src/images/screenshot.png)
 
 <!-- ### Links
 
@@ -78,4 +78,4 @@ I still have so much to learn abourt ReactJS and Responsive Layouts. So wait for
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/EltonBata)
+- Frontend Mentor - [@EltonBata](https://www.frontendmentor.io/profile/EltonBata)
